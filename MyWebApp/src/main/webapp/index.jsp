@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> 
-	<h2> welcome to SNIT Jenkins</h2>
+	<h2> welcome to SNIT Jenkins Azure </h2>
   
 </body>
 </html>
